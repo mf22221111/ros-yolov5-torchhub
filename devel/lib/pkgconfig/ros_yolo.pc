@@ -1,0 +1,8 @@
+prefix=/home/mf/test_ros/devel
+
+Name: ros_yolo
+Description: Description of ros_yolo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

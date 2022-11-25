@@ -1,0 +1,8 @@
+prefix=/home/mf/test_ros/devel
+
+Name: first_ros
+Description: Description of first_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
